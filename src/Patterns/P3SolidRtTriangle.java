@@ -2,7 +2,7 @@ package Patterns;
 
 import java.util.Scanner;
 
-public class P3SolidRtAngleTriangle {
+public class P3SolidRtTriangle {
     static void main() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter height of triangle: ");
