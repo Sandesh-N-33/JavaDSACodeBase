@@ -1,3 +1,4 @@
+import Oops.BankAccount;
 import Oops.Person;
 import Oops.Student;
 
@@ -34,5 +35,15 @@ public class ClassicalBasic {
         C.eating();
         C.sleep();
 
+
+        //Encapsulation Example
+        BankAccount b = new BankAccount("Rahul",1234567890,61224,123456);
+        System.out.println(b.getAccountNo());
+        System.out.println(b.getBankBalance());
+        b.setIfscCode(456789);
+        b.setCsName("Kohli");
+        System.out.println(b.getCsName());
+        System.out.println(b.getAccountNo());
+        System.out.println(b.getBankBalance());
     }
 }
