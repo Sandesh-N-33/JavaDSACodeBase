@@ -1,4 +1,4 @@
-package Oops;
+package Oops.Encapsulation;
 
 public class BankAccount {
     private String csName;

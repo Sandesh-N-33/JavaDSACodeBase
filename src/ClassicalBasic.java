@@ -1,6 +1,6 @@
-import Oops.BankAccount;
-import Oops.Person;
-import Oops.Student;
+import Oops.Encapsulation.BankAccount;
+import Oops.Basics.Person;
+import Oops.Basics.Student;
 
 public class ClassicalBasic {
 

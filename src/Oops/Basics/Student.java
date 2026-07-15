@@ -1,4 +1,4 @@
-package Oops;
+package Oops.Basics;
 
 import java.sql.SQLOutput;
 

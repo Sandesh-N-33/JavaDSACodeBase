@@ -1,4 +1,4 @@
-package Oops;
+package Oops.Basics;
 
 public class Person {
     //Attributes
